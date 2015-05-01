@@ -1,6 +1,7 @@
 # Radio controller program, v0.0.0.0.0.1a(prototype)
 # Just some notes around handling the oscellator and the radio frequency module.
 
+
 import RPi.GPIO as GPIO
 import smbus
 import time

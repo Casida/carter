@@ -1,0 +1,14 @@
+Prototype Box:
+
+- Raspberry Pi 2 B
+- Class 10 8GB Micro SD
+
+- Bybyte Quad-7850 Amplifier (4x50W)
+	http://www.bybyte.com/amp.htm
+- Double Din Bybyte Black Box
+- 7" Touch LCD panel
+
+Navigation
+Media
+Phone
+Settings
